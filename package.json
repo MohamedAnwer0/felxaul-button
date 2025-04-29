@@ -1,0 +1,51 @@
+{
+    "name": "@flexaui/button",
+    "version": "1.0.1",
+    "description": "A customizable, button component built with React, TailwindCSS, and Framer Motion. Perfect for modern UI libraries and fast development.",
+    "main": "dist/index.js",
+    "module": "dist/index.esm.js",
+    "type": "module",
+    "files": [
+        "dist",
+        "README.md"
+    ],
+    "scripts": {
+        "build": "rollup -c"
+    },
+    "keywords": [
+        "react",
+        "button",
+        "react-button",
+        "ui",
+        "component",
+        "tailwindcss",
+        "motion",
+        "animated-button",
+        "flexa",
+        "flexaui",
+        "react-component",
+        "design-system",
+        "tailwind",
+        "ui-components",
+        "react-ui",
+        "accessible",
+        "customizable",
+        "responsive"
+    ],
+    "author": "FlexaUI",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/flexaui/button"
+    },
+    "homepage": "https://github.com/flexaui/button#readme",
+    "publishConfig": {
+        "access": "public"
+    },
+    "peerDependencies": {
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
+        "motion": "^12.9.2",
+        "tailwindcss": "^4.1.4"
+    }
+}
