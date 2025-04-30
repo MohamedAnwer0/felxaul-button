@@ -38,8 +38,8 @@ yarn add @flexaui/button
 First, make sure you import the generated CSS file along with the Button component:
 
 ```jsx
-import "@flexaui/button/dist/button.css";
 import Button from "@flexaui/button";
+import "@flexaui/button/dist/style.css";
 ```
 
 Then, you can use the `Button` component like this:

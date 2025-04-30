@@ -1,6 +1,6 @@
 {
     "name": "@flexaui/button",
-    "version": "1.0.1",
+    "version": "1.1.2",
     "description": "A customizable, button component built with React, TailwindCSS, and Framer Motion. Perfect for modern UI libraries and fast development.",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
@@ -36,9 +36,9 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flexaui/button"
+        "url": "https://github.com/MohamedAnwer0/flexaui-button"
     },
-    "homepage": "https://github.com/flexaui/button#readme",
+    "homepage": "https://github.com/MohamedAnwer0/flexaui-button#readme",
     "publishConfig": {
         "access": "public"
     },
