@@ -1,6 +1,6 @@
 {
     "name": "@flexaui/button",
-    "version": "1.1.2",
+    "version": "1.1.7",
     "description": "A customizable, button component built with React, TailwindCSS, and Framer Motion. Perfect for modern UI libraries and fast development.",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
@@ -43,8 +43,8 @@
         "access": "public"
     },
     "peerDependencies": {
-        "react": "^19.0.0",
-        "react-dom": "^19.0.0",
+        "react": ">=18.0.0",
+        "react-dom": ">=18.0.0",
         "motion": "^12.9.2",
         "tailwindcss": "^4.1.4"
     }
